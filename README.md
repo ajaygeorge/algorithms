@@ -1,2 +1,3 @@
 # algorithms
-Collection of Algorithms and Problem Solving approaches
+## Collection of Algorithms and Problem Solving approaches
+
